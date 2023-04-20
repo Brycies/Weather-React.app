@@ -68,7 +68,7 @@ function App() {
             placeholder="Search..."
             onChange={(e) => setQuery(e.target.value)}
             value={query}
-            onkeypress={search}
+            onKeyPress={search}
           ></input>
         </div>
         <div className="location-box">
