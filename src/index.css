@@ -59,7 +59,7 @@ main {
   text-align: center;
   text-shadow: 3px 3px rgb(50, 50, 70, 0.5);
 }
-.location {
+.location-box .date {
   color: #fff;
   font-size: 20px;
   font-weight: 300;
