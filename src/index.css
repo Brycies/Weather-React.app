@@ -80,7 +80,7 @@ main {
   color: #fff;
   font-size: 90px;
   font-weight: 900;
-  text-shadow: 3px 6px rgbs(50, 50, 70, 0.5);
+  text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
   box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
 }
